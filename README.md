@@ -1,4 +1,4 @@
-# Inventory-Analysis-Case-Study-Alfido-Tech
+# Inventory-Analysis-Case-Study-Alfido-Tech-Internship-Task-3
 
   The project involves the use of Python libraries for data analysis, including Pandas, NumPy, Matplotlib, Seaborn, and WordCloud, as well as handling warnings in the code. The primary datasets used in this project include Purchase Price, Beginning Inventory, Ending Inventory, Purchases, Purchase Final, and Sales Final. The project encompasses an initial exploration of these datasets and dives into exploratory data analysis, with a focus on understanding the relationships, distributions, and insights that can be extracted from the data.
 
